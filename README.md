@@ -7,3 +7,4 @@
 | 3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)|
 | 4 | [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)| |
 | 5 | [css images, colors and text](class-05.md) |
+| 6 | [Problem Domain, Objects, and the DOM](class-06.md)|
