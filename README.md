@@ -9,4 +9,5 @@
 | 5 | [css images, colors and text](class-05.md) |
 | 6 | [Problem Domain, Objects, and the DOM](class-06.md)|
 | 7 | [Object-Oriented Programming, HTML Tables](class-07.md)|
+| 8 | [More css layout](class-08.md)|
 
