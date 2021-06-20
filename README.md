@@ -13,3 +13,4 @@
 | 9 | [HTML forms and javascript events](class-09.md) |
 | 10 | [javascript debugging](class-10.md) |
 | 11 | [HTML video, audio, image](class-11.md) |
+| 12 | [Charts.js](class-12.md) |
